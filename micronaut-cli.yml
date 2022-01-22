@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: app.web.pavelk
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, http-client, java, java-application, junit, lombok, maven, netty-server, readme, shade, slf4j-simple, yaml ]
