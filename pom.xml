@@ -6,6 +6,7 @@
     <artifactId>server10</artifactId>
     <version>0.1</version>
     <packaging>${packaging}</packaging>
+    <name>10221Server10JavaMicronaut</name>
 
     <parent>
         <groupId>io.micronaut</groupId>
